@@ -1,5 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde readme.md ve index html dosyası barındırıyor. 
+ www.patika.dev
 
 # Installation
 ## Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
